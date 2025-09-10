@@ -1,0 +1,6 @@
+reloadserverconnection: true
+bungeecord: false
+papertxt: true
+paperloaderboot: true
+connectionthrottlelimit: ==[1~20]
+msinload: false
