@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Velocity for eaglercraft client 1.12.2 No longer supports direct proxies with the eeaglerXvelocity plugin. Using EaglerXserver will foward ports by default.
+
 ## Basically a velocity server
 WITH FULL SUPPORT CONTAINING [LIMBOAPI](https://github.com/Elytrium/LimboAPI) ,"An API which provides virtual servers features to Velocity" like mods.
 
