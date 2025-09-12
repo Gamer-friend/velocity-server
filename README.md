@@ -4,6 +4,11 @@
 ## Basically a velocity server
 WITH FULL SUPPORT CONTAINING [LIMBOAPI](https://github.com/Elytrium/LimboAPI) ,"An API which provides virtual servers features to Velocity" like mods.
 
+## Tutorinal
+
+https://github.com/user-attachments/assets/ab3e06fe-6082-4eb2-98e2-c46e714eb41f
+
+
 ## Features of LimboAPI
 
 - Send to the Limbo server during login process
